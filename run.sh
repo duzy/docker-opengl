@@ -1,7 +1,7 @@
 #!/bin/sh
 
 container=opengl
-image=thewtex/opengl
+image=duzy/opengl
 port=6080
 extra_run_args=""
 quiet=""
